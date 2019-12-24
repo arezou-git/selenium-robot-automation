@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35908aac-e33c-4870-bbc3-82de99fbd67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Libraries/Lib.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Libraries/Lib.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/TC_002.robot" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/TC_002.robot" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
